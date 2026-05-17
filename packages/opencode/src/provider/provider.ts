@@ -412,7 +412,7 @@ function custom(dep: CustomDep): Record<string, CustomLoader> {
         options: {
           headers: {
             "HTTP-Referer": "https://opencode.ai/",
-            "X-Title": "opencode",
+            "X-Title": "xovadev",
             "X-Source": "opencode",
           },
         },
@@ -423,7 +423,7 @@ function custom(dep: CustomDep): Record<string, CustomLoader> {
         options: {
           headers: {
             "HTTP-Referer": "https://opencode.ai/",
-            "X-Title": "opencode",
+            "X-Title": "xovadev",
           },
         },
       }),
@@ -433,8 +433,8 @@ function custom(dep: CustomDep): Record<string, CustomLoader> {
         options: {
           headers: {
             "HTTP-Referer": "https://opencode.ai/",
-            "X-Title": "opencode",
-            "X-BILLING-INVOKE-ORIGIN": "OpenCode",
+            "X-Title": "xovadev",
+            "X-BILLING-INVOKE-ORIGIN": "XovaDev",
           },
         },
       }),
@@ -444,7 +444,7 @@ function custom(dep: CustomDep): Record<string, CustomLoader> {
         options: {
           headers: {
             "http-referer": "https://opencode.ai/",
-            "x-title": "opencode",
+            "x-title": "xovadev",
           },
         },
       }),
@@ -548,7 +548,7 @@ function custom(dep: CustomDep): Record<string, CustomLoader> {
         options: {
           headers: {
             "HTTP-Referer": "https://opencode.ai/",
-            "X-Title": "opencode",
+            "X-Title": "xovadev",
           },
         },
       }),
@@ -834,7 +834,7 @@ function custom(dep: CustomDep): Record<string, CustomLoader> {
         options: {
           headers: {
             "HTTP-Referer": "https://opencode.ai/",
-            "X-Title": "opencode",
+            "X-Title": "xovadev",
           },
         },
       }),
